@@ -1,0 +1,180 @@
+{"instruction": "What is the street address of Building A at the Brampton Campus?", "input": "", "output": "Building A is located at 24 Queen Street East."}
+{"instruction": "Where can I find the Student Meeting Rooms in Building A?", "input": "", "output": "Student Meeting Rooms in Building A are located on the Lower Level (LL). specifically rooms A-LL9 and A-LL10."}
+{"instruction": "Which floor is the IT Help Desk located on in Building A?", "input": "", "output": "The IT Help Desk (Room A-505) is located on the 5th Floor of Building A."}
+{"instruction": "Where is the Welcome Centre located?", "input": "", "output": "The Welcome Centre (Room A-101) is located on the Ground Floor (Level L) of Building A."}
+{"instruction": "List the classrooms located on the Lower Level (LL) of Building A.", "input": "", "output": "The classrooms on the Lower Level of Building A are A-LL1, A-LL2, and A-LL3."}
+{"instruction": "What is the address of Building B?", "input": "", "output": "Building B is located at 8 Queen Street East."}
+{"instruction": "Where is the Multi-Faith & Prayer Room located?", "input": "", "output": "The Multi-Faith & Prayer Room (B-307) is located on the 3rd Floor of Building B."}
+{"instruction": "I am looking for the AUSU Office. Where should I go?", "input": "", "output": "The AUSU Office (B-203) is located on the 2nd Floor of Building B."}
+{"instruction": "What facilities are available on the 2nd Floor of Building B?", "input": "", "output": "The 2nd Floor of Building B contains the Student Centre (B-201), Open Workstations (B-202), the AUSU Office (B-203), and a general Office (B-204)."}
+{"instruction": "Where is the SCEI Centre located?", "input": "", "output": "The SCEI Centre (B-301) is located on the 3rd Floor of Building B."}
+{"instruction": "What is the address for Building D?", "input": "", "output": "Building D is located at 28 Main Street."}
+{"instruction": "Where is the Ceremony & Spiritual Room found?", "input": "", "output": "The Ceremony & Spiritual Room (D-101) is located on the 1st Floor of Building D."}
+{"instruction": "Where is the Facility Hub located?", "input": "", "output": "The Facility Hub (C-101) is located on the Ground Floor of Building C at 52 Queen Street East."}
+{"instruction": "What classrooms are located on the 6th floor of Building A?", "input": "", "output": "The classrooms on the 6th floor of Building A are A-601, A-603, A-604, and A-609."}
+{"instruction": "Where can I find computer labs in Building A?", "input": "", "output": "Computer labs A-301 and A-304 are located on the 3rd Floor of Building A."}
+{"instruction": "What university spaces are located within the YMCA building?", "input": "", "output": "Algoma University spaces in the YMCA are on the 2nd Floor, including the Student Life Lounge (207), the Wellness Hub (210), and the Multi-Purpose Room (219)."}
+{"instruction": "Is there a bicycle lock-up location near the campus?", "input": "", "output": "Yes, there is a bicycle lock-up location situated between Building D (28 Main St.) and Building B (8 Queen St. East)."}
+{"instruction": "Where is the Kitchenette/Workshop located in Building E?", "input": "", "output": "The Kitchenette/Workshop (E-317) is located on the 3rd Floor of Building E (56 Queen Street East)."}
+{"instruction": "Where can I find a quiet study room in Building A?", "input": "", "output": "A Quiet Study Room (A-LL12) is available on the Lower Level (LL) of Building A."}
+{"instruction": "What is the location of the Boardroom in Building A?", "input": "", "output": "The Boardroom (A-LL4) is located on the Lower Level (LL) of Building A."}
+{"instruction": "I have a class in room A-LL1 on the lower level, but I need to print something first. Is there a printer nearby?", "input": "", "output": "Yes, there is a printer room (A-LL8) located on the Lower Level (LL) of Building A, close to your classroom."}
+{"instruction": "Where is the closest place to get food or heat up my lunch in Building A?", "input": "", "output": "You can use the Lunchroom (A-511) on the 5th floor of Building A. Alternatively, there is a pantry (A-LL13) on the Lower Level, but check if it has student access as some pantries are staff-only."}
+{"instruction": "I'm looking for a spot to study with my group where we can talk. Are there any open workstations in Building B?", "input": "", "output": "Yes, Building B has Open Workstations on the 2nd Floor (B-202) and the 3rd Floor (B-302). There is also a Student Centre (B-201) on the 2nd floor which is good for group work."}
+{"instruction": "Is there a specific room for multi-faith prayer on campus?", "input": "", "output": "Yes, the Multi-Faith & Prayer Room (B-307) is located on the 3rd Floor of Building B (8 Queen Street East)."}
+{"instruction": "I need to visit the Wellness Hub. Which building is it in?", "input": "", "output": "The Wellness Hub (Room 210) is located inside the YMCA building on the 2nd Floor, within the Algoma University Spaces."}
+{"instruction": "Can you tell me where the IT Help Desk is? My laptop is having issues.", "input": "", "output": "The IT Help Desk (A-505) is located on the 5th Floor of Building A (24 Queen Street East)."}
+{"instruction": "I have a meeting with a professor in Office A-308. How do I get there?", "input": "", "output": "Office A-308 is located on the 3rd Floor of Building A. You can take Elevator E to the 3rd floor; the office is near the restrooms."}
+{"instruction": "Are there any student lounges in Building A where I can relax between classes?", "input": "", "output": "Yes, there is a Student Lounge (A-LL11) on the Lower Level, and another Student Lounge (A-302) on the 3rd Floor of Building A."}
+{"instruction": "I need to find a washroom in Building C. Are there any on the ground floor?", "input": "", "output": "Yes, there are two 'All Use Washrooms' located on the Ground Floor of Building C (52 Queen Street East), near offices C-104 and C-108."}
+{"instruction": "What is in Building E? Is it just classrooms?", "input": "", "output": "Building E (56 Queen Street East) has Classrooms (E-301, E-302, E-305, E-308) on the 3rd floor, but also includes a Computer Lab (E-304), Open Workstations (E-316), and a Kitchenette/Workshop (E-317)."}
+{"instruction": "Where is the best place to park my bike if I have a class in Building B?", "input": "", "output": "There is a bicycle lock-up location situated right between Building B (8 Queen St. East) and Building D (28 Main St.)."}
+{"instruction": "I'm looking for the 'Ceremony & Spiritual Room'. Is that in the main building?", "input": "", "output": "No, the Ceremony & Spiritual Room (D-101) is located on the 1st Floor of Building D (28 Main Street)."}
+{"instruction": "Is there a computer lab I can use in Building A?", "input": "", "output": "Yes, you can use the computer labs A-301 or A-304, both located on the 3rd Floor of Building A."}
+{"instruction": "I need to drop off a form at the Registrar or Welcome Centre. Where is that?", "input": "", "output": "The Welcome Centre (A-101) is located on the Ground Floor (Level L) of Building A (24 Queen Street East)."}
+{"instruction": "My schedule says 'SCEI Centre'. What building is that?", "input": "", "output": "The SCEI Centre (B-301) is located on the 3rd Floor of Building B (8 Queen Street East)."}
+{"instruction": "Are there any gender-neutral washrooms in Building A?", "input": "", "output": "Yes, 'All Use Washrooms' are available on several floors in Building A, including the 2nd, 3rd, 5th, and 6th floors."}
+{"instruction": "I have a lecture in room D-208. Where is that?", "input": "", "output": "Room D-208 is a classroom located on the 2nd Floor of Building D (28 Main Street)."}
+{"instruction": "Is there a gym or recreation area for students?", "input": "", "output": "Yes, Algoma University has spaces in the YMCA building. There is a Student Life Lounge (207) and access to the YMCA patio on the 2nd floor."}
+{"instruction": "I'm looking for a quiet place to study in Building A, specifically on the lower level.", "input": "", "output": "You can use the Quiet Study Room (A-LL12) located on the Lower Level (LL) of Building A."}
+{"instruction": "Where are the elevators in Building A?", "input": "", "output": "Building A has an elevator (marked 'Elevator E' on maps) that services all floors from the Lower Level (LL) up to the 6th Floor."}
+{"instruction": "I need a quiet place to take a call or focus on my work. Are there private rooms in Building A?", "input": "", "output": "Yes, there are two Focus Rooms (A-204 and A-205) located on the 2nd Floor of Building A."}
+{"instruction": "Where are the Open Workstations located on the 5th floor of Building A?", "input": "", "output": "On the 5th floor of Building A, you can find Open Workstations in rooms A-510, A-512, A-522, A-523, and A-524."}
+{"instruction": "Does Building E have a computer lab, or do I have to go to Building A?", "input": "", "output": "Building E has its own Computer Lab (E-304) located on the 3rd Floor, so you do not need to go to Building A."}
+{"instruction": "I have a meeting scheduled in room D-107. Where is that?", "input": "", "output": "Room D-107 is a Meeting Room located on the 1st Floor of Building D (28 Main Street)."}
+{"instruction": "I'm looking for a professor's office in Building C. Which rooms are offices there?", "input": "", "output": "On the Ground Floor of Building C, the offices are C-102, C-103, C-104, C-108, and C-109."}
+{"instruction": "Where is the Sessional Office located?", "input": "", "output": "The Sessional Office (A-LL17) is located on the Lower Level (LL) of Building A."}
+{"instruction": "I saw a pantry on the map in Building A's lower level. Can students use it?", "input": "", "output": "The Pantry (A-LL13) on the Lower Level of Building A is marked as 'Staff Access Only' on the campus map."}
+{"instruction": "What is the difference between the rooms on the 2nd floor of Building B?", "input": "", "output": "The 2nd Floor of Building B contains the Student Centre (B-201) for social activities, while B-202 offers Open Workstations for study."}
+{"instruction": "Is there a staff room in Building D?", "input": "", "output": "Yes, the Staff Room (D-104) is located on the 1st Floor of Building D."}
+{"instruction": "How do I get to the patio at the YMCA?", "input": "", "output": "The YMCA Patio is accessible from the 2nd Floor, adjacent to the Wellness Hub (Room 210)."}
+{"instruction": "Are there any student lounges on the top floor of Building A?", "input": "", "output": "Yes, on the 6th Floor of Building A, there are two Student Lounges: A-602 and A-606."}
+{"instruction": "I need to book a meeting room on the 2nd floor of Building A. Which room is that?", "input": "", "output": "The Meeting Room on the 2nd Floor of Building A is room A-218."}
+{"instruction": "Which classrooms are available in Building E?", "input": "", "output": "Building E contains classrooms E-301, E-302, E-305, and E-308, all located on the 3rd Floor."}
+{"instruction": "What classrooms are on the 2nd floor of Building A?", "input": "", "output": "The classrooms on the 2nd Floor of Building A are A-201, A-209, A-215, and A-216."}
+{"instruction": "Is there an elevator in Building B?", "input": "", "output": "Yes, Building B is equipped with an elevator (Elevator E) that services the floors."}
+{"instruction": "I am in Building D. Is there an elevator here?", "input": "", "output": "Yes, there is an elevator (Elevator E) located in Building D to help you move between the 1st and 2nd floors."}
+{"instruction": "Can I take an elevator in Building E?", "input": "", "output": "Yes, Building E has an elevator located near the entrance to access the 3rd floor."}
+{"instruction": "Where is the Multi-Purpose Room in the YMCA?", "input": "", "output": "The Multi-Purpose Room (219) is located on the 2nd Floor of the YMCA building."}
+{"instruction": "List all the locations where I can find Computer Labs on campus.", "input": "", "output": "Computer Labs are found in Building A (Rooms A-301 and A-304 on the 3rd Floor) and Building E (Room E-304 on the 3rd Floor)."}
+{"instruction": "Where are the designated spots to eat lunch on campus?", "input": "", "output": "You can eat at the Lunchroom (A-511) on the 5th floor of Building A, or the Kitchenette (E-317) on the 3rd floor of Building E."}
+{"instruction": "Are there meeting rooms for students on the 6th floor of Building A?", "input": "", "output": "Yes, there are three Student Meeting Rooms on the 6th floor of Building A: A-605, A-607, and A-608."}
+{"instruction": "I'm looking for the IT Office, not the Help Desk. Where is it?", "input": "", "output": "The IT Office (A-104) is located on the Ground Floor (Level L) of Building A, whereas the Help Desk is on the 5th floor."}
+{"instruction": "Where are the offices located in Building B?", "input": "", "output": "In Building B, offices are located on the 3rd Floor (Rooms B-303, B-304, B-305, B-308, B-309) and the 2nd Floor (B-203, B-204)."}
+{"instruction": "Are there open workstations in Building E?", "input": "", "output": "Yes, Open Workstations (E-316) are located on the 3rd Floor of Building E."}
+{"instruction": "Where are the administrative offices on the 2nd floor of Building A?", "input": "", "output": "The 2nd floor of Building A has several offices, including A-202, A-203, A-207, A-210, A-211, A-212, A-213, A-214, A-217, A-219, A-220, and A-221."}
+{"instruction": "Is there a meeting room on the 5th floor of Building A?", "input": "", "output": "Yes, there are two Meeting Rooms on the 5th floor of Building A: A-517 and A-518."}
+{"instruction": "I need to find 'Office A' or 'Office B' in Building A. Do you know where those are?", "input": "", "output": "Yes, Office A (A-307) and Office B (A-308) are located on the 3rd Floor of Building A."}
+{"instruction": "Is there a classroom in Building D?", "input": "", "output": "Yes, Classroom D-208 is located on the 2nd Floor of Building D."}
+{"instruction": "Where can I find an All Use Washroom in Building C?", "input": "", "output": "There are two All Use Washrooms located on the Ground Floor of Building C, near the offices."}
+{"instruction": "I'm looking for the janitorial closet in Building D. Strange question, I know.", "input": "", "output": "The Janitorial Closet (D-207) is marked on the 2nd Floor of Building D."}
+{"instruction": "I have a lecture in room A-102. Where is that?", "input": "", "output": "Room A-102 is a classroom located on the Ground Floor (Level L) of Building A."}
+{"instruction": "What is room A-LL4 used for?", "input": "", "output": "Room A-LL4 is a Boardroom located on the Lower Level (LL) of Building A."}
+{"instruction": "I need to find the Welcome Centre. What room number is it?", "input": "", "output": "The Welcome Centre is room A-101, located on the Ground Floor (Level L) of Building A."}
+{"instruction": "What is room E-304?", "input": "", "output": "Room E-304 is a Computer Lab located on the 3rd Floor of Building E."}
+{"instruction": "Where is the Facility Hub?", "input": "", "output": "The Facility Hub is located in room C-101 on the Ground Floor (G) of Building C."}
+{"instruction": "I have a meeting in B-306. Where is this room?", "input": "", "output": "Room B-306 is a Meeting Room located on the 3rd Floor of Building B. Note that it is marked for Staff Access Only."}
+{"instruction": "What room is the Student Centre in Building B?", "input": "", "output": "The Student Centre is room B-201, located on the 2nd Floor of Building B."}
+{"instruction": "I'm looking for room A-601. Can you help?", "input": "", "output": "Room A-601 is a classroom located on the 6th Floor of Building A."}
+{"instruction": "What is room D-101 used for?", "input": "", "output": "Room D-101 is the Ceremony & Spiritual Room, located on the 1st Floor of Building D."}
+{"instruction": "Where is room A-505?", "input": "", "output": "Room A-505 is the IT Help Desk, located on the 5th Floor of Building A."}
+{"instruction": "What is the difference between the IT Help Desk and the IT Office?", "input": "", "output": "The IT Help Desk (A-505) is on the 5th Floor of Building A, while the IT Office (A-104) is on the Ground Floor (Level L) of the same building."}
+{"instruction": "What are rooms A-204 and A-205?", "input": "", "output": "Rooms A-204 and A-205 are Focus Rooms located on the 2nd Floor of Building A."}
+{"instruction": "Where is the Student Life Lounge?", "input": "", "output": "The Student Life Lounge is room 207, located on the 2nd Floor within the YMCA Algoma University Spaces."}
+{"instruction": "Where can I find open workstations on the 3rd floor of Building B?", "input": "", "output": "Open Workstations are available in room B-302 on the 3rd Floor of Building B."}
+{"instruction": "I need to go to room D-201. What is it and where is it?", "input": "", "output": "Room D-201 is a Meeting Room located on the 2nd Floor of Building D."}
+{"instruction": "What is room A-LL15?", "input": "", "output": "Room A-LL15 is a Workstation located on the Lower Level (LL) of Building A."}
+{"instruction": "What floor is the SCEI Centre on?", "input": "", "output": "The SCEI Centre (Room B-301) is located on the 3rd Floor of Building B."}
+{"instruction": "Is there a student lounge on the 3rd floor of Building A?", "input": "", "output": "Yes, there are two Student Lounges on the 3rd Floor of Building A: rooms A-302 and A-305."}
+{"instruction": "Where is room E-317?", "input": "", "output": "Room E-317 is a Kitchenette/Workshop located on the 3rd Floor of Building E."}
+{"instruction": "I am looking for Office A-506.", "input": "", "output": "Office A-506 is located on the 5th Floor of Building A."}
+{"instruction": "What is room A-206?", "input": "", "output": "Room A-206 contains Open Workstations and is located on the 2nd Floor of Building A."}
+{"instruction": "Where is the Multi-Purpose Room?", "input": "", "output": "The Multi-Purpose Room is room 219, located on the 2nd Floor of the YMCA building."}
+{"instruction": "I have an appointment in room C-103. Where is that?", "input": "", "output": "Room C-103 is an Office located on the Ground Floor (G) of Building C."}
+{"instruction": "What is room D-110?", "input": "", "output": "Room D-110 is an Office located on the 1st Floor of Building D."}
+{"instruction": "Where is room A-301?", "input": "", "output": "Room A-301 is a Computer Lab located on the 3rd Floor of Building A."}
+{"instruction": "Is room A-LL13 open for students?", "input": "", "output": "No, room A-LL13 is a Pantry located on the Lower Level of Building A, but it is marked for Staff Access Only."}
+{"instruction": "What is room B-203?", "input": "", "output": "Room B-203 is the AUSU Office, located on the 2nd Floor of Building B."}
+{"instruction": "I'm looking for room E-308.", "input": "", "output": "Room E-308 is a classroom located on the 3rd Floor of Building E."}
+{"instruction": "Where are the student meeting rooms on the lower level of Building A?", "input": "", "output": "The Student Meeting Rooms on the Lower Level (LL) of Building A are rooms A-LL9 and A-LL10."}
+{"instruction": "What is room D-104?", "input": "", "output": "Room D-104 is a Staff Room located on the 1st Floor of Building D."}
+{"instruction": "Where is the Welcome Centre?", "input": "", "output": "The Welcome Centre (A-101) is located on the Ground Floor (Level L) of Building A, at 24 Queen Street East."}
+{"instruction": "How do I find the AUSU Office?", "input": "", "output": "The AUSU Office (B-203) is on the 2nd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "Where is the Facility Hub located?", "input": "", "output": "The Facility Hub (C-101) is located on the Ground Floor of Building C, at 52 Queen Street East."}
+{"instruction": "I'm looking for the Ceremony & Spiritual Room.", "input": "", "output": "The Ceremony & Spiritual Room (D-101) is on the 1st Floor of Building D, which is located at 28 Main Street."}
+{"instruction": "Where can I find the E-304 Computer Lab?", "input": "", "output": "The Computer Lab (E-304) is on the 3rd Floor of Building E, located at 56 Queen Street East."}
+{"instruction": "I need to visit the IT Help Desk. Where should I go?", "input": "", "output": "The IT Help Desk (A-505) is on the 5th Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is the Multi-Faith & Prayer Room?", "input": "", "output": "The Multi-Faith & Prayer Room (B-307) is situated on the 3rd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "Where are the Open Workstations A-522 to A-524?", "input": "", "output": "These Open Workstations are located on the 5th Floor of Building A, at 24 Queen Street East."}
+{"instruction": "I have a meeting in Office C-109. Where is that?", "input": "", "output": "Office C-109 is on the Ground Floor of Building C, located at 52 Queen Street East."}
+{"instruction": "Where is classroom D-208?", "input": "", "output": "Classroom D-208 is on the 2nd Floor of Building D, located at 28 Main Street."}
+{"instruction": "Where can I find the Kitchenette/Workshop for students?", "input": "", "output": "The Kitchenette/Workshop (E-317) is on the 3rd Floor of Building E, located at 56 Queen Street East."}
+{"instruction": "I'm trying to find the Sessional Office (A-LL17).", "input": "", "output": "The Sessional Office is on the Lower Level (LL) of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is the SCEI Centre?", "input": "", "output": "The SCEI Centre (B-301) is on the 3rd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "I have a class in A-306. Where do I go?", "input": "", "output": "Classroom A-306 is located on the 3rd Floor of Building A, at 24 Queen Street East."}
+{"instruction": "Where is the D-104 Staff Room?", "input": "", "output": "The Staff Room (D-104) is on the 1st Floor of Building D, located at 28 Main Street."}
+{"instruction": "Where are the open workstations in Building E?", "input": "", "output": "The Open Workstations (E-316) are located on the 3rd Floor of Building E, at 56 Queen Street East."}
+{"instruction": "I need to go to the Boardroom A-LL4.", "input": "", "output": "Boardroom A-LL4 is on the Lower Level (LL) of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is the Student Centre?", "input": "", "output": "The Student Centre (B-201) is on the 2nd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "How do I get to Office C-102?", "input": "", "output": "Office C-102 is located on the Ground Floor of Building C, at 52 Queen Street East."}
+{"instruction": "Where is the quiet study room?", "input": "", "output": "The Quiet Study Room (A-LL12) is on the Lower Level (LL) of Building A, located at 24 Queen Street East."}
+{"instruction": "I need a place to eat lunch. Is there a lunchroom in the main building?", "input": "", "output": "Yes, the Lunchroom (A-511) is located on the 5th Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where are the open workstations on the second floor of Building B?", "input": "", "output": "The Open Workstations (B-202) are on the 2nd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "I have a lecture in E-305. What is the address for this building?", "input": "", "output": "Classroom E-305 is on the 3rd Floor of Building E, which is located at 56 Queen Street East."}
+{"instruction": "Where is Meeting Room D-107?", "input": "", "output": "Meeting Room D-107 is located on the 1st Floor of Building D at 28 Main Street."}
+{"instruction": "I need to use Computer Lab A-304. How do I get there?", "input": "", "output": "Computer Lab A-304 is located on the 3rd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is Office C-104?", "input": "", "output": "Office C-104 is on the Ground Floor of Building C, located at 52 Queen Street East."}
+{"instruction": "I booked Focus Room A-205. Which building and address is this?", "input": "", "output": "Focus Room A-205 is on the 2nd Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is Office B-303 located?", "input": "", "output": "Office B-303 is on the 3rd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "I need to drop something off at Office E-318. What is the address?", "input": "", "output": "Office E-318 is located on the 3rd Floor of Building E at 56 Queen Street East."}
+{"instruction": "Where is the A-602 Student Lounge?", "input": "", "output": "The Student Lounge (A-602) is on the 6th Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is Classroom A-LL1?", "input": "", "output": "Classroom A-LL1 is located on the Lower Level (LL) of Building A at 24 Queen Street East."}
+{"instruction": "I have a meeting in Office A-LL5. What is the address?", "input": "", "output": "Office A-LL5 is on the Lower Level (LL) of Building A, located at 24 Queen Street East."}
+{"instruction": "How do I get to Classroom A-103?", "input": "", "output": "Classroom A-103 is on the Ground Floor (Level L) of Building A, located at 24 Queen Street East."}
+{"instruction": "Where can I find Classroom A-201?", "input": "", "output": "Classroom A-201 is on the 2nd Floor of Building A at 24 Queen Street East."}
+{"instruction": "I am looking for the pantry on the second floor. Where is it?", "input": "", "output": "The Pantry (A-208) is on the 2nd Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "What is the address for Classroom A-209?", "input": "", "output": "Classroom A-209 is situated on the 2nd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is the A-305 Student Lounge located?", "input": "", "output": "The Student Lounge (A-305) is on the 3rd Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "I need to visit Office A-501. Where should I go?", "input": "", "output": "Office A-501 is on the 5th Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is Classroom A-603?", "input": "", "output": "Classroom A-603 is on the 6th Floor of Building A at 24 Queen Street East."}
+{"instruction": "I have a lecture in Classroom A-604. What is the address?", "input": "", "output": "Classroom A-604 is located on the 6th Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is the Student Meeting Room A-605?", "input": "", "output": "Student Meeting Room A-605 is on the 6th Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "How do I find Classroom A-609?", "input": "", "output": "Classroom A-609 is on the 6th Floor of Building A at 24 Queen Street East."}
+{"instruction": "I am looking for Office B-304. Where is that?", "input": "", "output": "Office B-304 is on the 3rd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "Where is Office B-305?", "input": "", "output": "Office B-305 is situated on the 3rd Floor of Building B at 8 Queen Street East."}
+{"instruction": "I have an appointment in Office C-108. What is the address?", "input": "", "output": "Office C-108 is on the Ground Floor of Building C, located at 52 Queen Street East."}
+{"instruction": "Where is Classroom E-301?", "input": "", "output": "Classroom E-301 is located on the 3rd Floor of Building E at 56 Queen Street East."}
+{"instruction": "I need to go to Classroom E-302. Where is it?", "input": "", "output": "Classroom E-302 is on the 3rd Floor of Building E, located at 56 Queen Street East."}
+{"instruction": "How do I get to Office D-102?", "input": "", "output": "Office D-102 is on the 1st Floor of Building D, located at 28 Main Street."}
+{"instruction": "Where can I find Office D-108?", "input": "", "output": "Office D-108 is on the 1st Floor of Building D at 28 Main Street."}
+{"instruction": "I'm looking for Office D-111. Where is that?", "input": "", "output": "Office D-111 is located on the 1st Floor of Building D at 28 Main Street."}
+{"instruction": "Where is Classroom A-LL2?", "input": "", "output": "Classroom A-LL2 is on the Lower Level (LL) of Building A, located at 24 Queen Street East."}
+{"instruction": "I need to find Classroom A-LL3. What is the address?", "input": "", "output": "Classroom A-LL3 is located on the Lower Level (LL) of Building A at 24 Queen Street East."}
+{"instruction": "Where is Office A-LL6?", "input": "", "output": "Office A-LL6 is on the Lower Level (LL) of Building A at 24 Queen Street East."}
+{"instruction": "I'm looking for the Printer Room A-LL8. Where is it?", "input": "", "output": "Printer Room A-LL8 is on the Lower Level (LL) of Building A at 24 Queen Street East. Note that it is for staff access only."}
+{"instruction": "Where is the Student Lounge A-LL11?", "input": "", "output": "Student Lounge A-LL11 is located on the Lower Level (LL) of Building A at 24 Queen Street East."}
+{"instruction": "How do I get to Office A-LL14?", "input": "", "output": "Office A-LL14 is situated on the Lower Level (LL) of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is Workstation A-LL15?", "input": "", "output": "Workstation A-LL15 is on the Lower Level (LL) of Building A at 24 Queen Street East."}
+{"instruction": "I have a class in Classroom A-102. What is the address?", "input": "", "output": "Classroom A-102 is located on the Ground Floor (Level L) of Building A at 24 Queen Street East."}
+{"instruction": "Where is the IT Office?", "input": "", "output": "The IT Office (A-104) is located on the Ground Floor (Level L) of Building A at 24 Queen Street East."}
+{"instruction": "Can you tell me where Office A-202 is?", "input": "", "output": "Office A-202 is located on the 2nd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is the A-204 Focus Room?", "input": "", "output": "The Focus Room (A-204) is on the 2nd Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "I am looking for Open Workstation A-206. Where is it?", "input": "", "output": "Open Workstation A-206 is on the 2nd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is Classroom A-215?", "input": "", "output": "Classroom A-215 is located on the 2nd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is Classroom A-216?", "input": "", "output": "Classroom A-216 is on the 2nd Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "How do I find Meeting Room A-218?", "input": "", "output": "Meeting Room A-218 is on the 2nd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is Computer Lab A-301?", "input": "", "output": "Computer Lab A-301 is located on the 3rd Floor of Building A at 24 Queen Street East."}
+{"instruction": "I need to go to Student Lounge A-302. What is the address?", "input": "", "output": "Student Lounge A-302 is on the 3rd Floor of Building A, located at 24 Queen Street East."}
+{"instruction": "Where is Classroom A-303?", "input": "", "output": "Classroom A-303 is on the 3rd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is Office A-307?", "input": "", "output": "Office A-307, also known as Office A, is located on the 3rd Floor of Building A at 24 Queen Street East."}
+{"instruction": "Where is Office B-204?", "input": "", "output": "Office B-204 is located on the 2nd Floor of Building B at 8 Queen Street East."}
+{"instruction": "I need to find Open Workstations B-302. Where are they?", "input": "", "output": "Open Workstations B-302 are on the 3rd Floor of Building B, located at 8 Queen Street East."}
+{"instruction": "Where is Meeting Room B-306?", "input": "", "output": "Meeting Room B-306 is on the 3rd Floor of Building B at 8 Queen Street East. This room is for staff access only."}
+{"instruction": "How do I get to Office B-309?", "input": "", "output": "Office B-309 is located on the 3rd Floor of Building B at 8 Queen Street East."}
+{"instruction": "Where is Office C-103?", "input": "", "output": "Office C-103 is located on the Ground Floor of Building C at 52 Queen Street East."}
+{"instruction": "I have an appointment in Office D-109. Where is that?", "input": "", "output": "Office D-109 is on the 1st Floor of Building D, located at 28 Main Street."}
+{"instruction": "Where can I find Meeting Room D-201?", "input": "", "output": "Meeting Room D-201 is located on the 2nd Floor of Building D at 28 Main Street."}
+{"instruction": "Where is Classroom E-308?", "input": "", "output": "Classroom E-308 is on the 3rd Floor of Building E, located at 56 Queen Street East."}
+{"instruction": "Where is Office E-314?", "input": "", "output": "Office E-314 is located on the 3rd Floor of Building E at 56 Queen Street East."}
+{"instruction": "I am looking for the Student Life Lounge. Where is it?", "input": "", "output": "The Student Life Lounge (Room 207) is located on the 2nd Floor of the YMCA building."}
+{"instruction": "Where is the Wellness Hub?", "input": "", "output": "The Wellness Hub (Room 210) is located on the 2nd Floor of the YMCA building."}
