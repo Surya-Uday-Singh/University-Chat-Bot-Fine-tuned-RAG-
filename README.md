@@ -33,15 +33,8 @@ The frontend features a dual-engine toggle allowing real-time switching and side
 
 | RAG-Based CampusGPT (Local via Ollama) | QLoRA Fine-Tuned CampusGPT (Cloud via Colab) |
 | :---: | :---: |
-| ![RAG Demo Placeholder](
-
-https://github.com/user-attachments/assets/2181d478-d958-4bb1-a72c-20e18b2c70bd
-
-) | ![QLoRA Demo Placeholder](
-
-https://github.com/user-attachments/assets/e06369fa-3c65-4fda-beb4-1daba7296e72
-
-) |
+| https://github.com/user-attachments/assets/2181d478-d958-4bb1-a72c-20e18b2c70bd
+| https://github.com/user-attachments/assets/e06369fa-3c65-4fda-beb4-1daba7296e72
 | *Dynamic retrieval with context-grounded citations* | *Direct neural generation with internalized domain style* |
 
 ---
